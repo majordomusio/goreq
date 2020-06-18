@@ -1,12 +1,9 @@
-[![Build Status](https://img.shields.io/travis/franela/goreq/master.svg)](https://travis-ci.org/franela/goreq)
-[![GoDoc](https://godoc.org/github.com/franela/goreq?status.svg)](https://godoc.org/github.com/franela/goreq)
-
 GoReq
 =======
 
+NOTE: Forked from https://github.com/franela/goreq and frozen in time. Added go.mod
+
 Simple and sane HTTP request library for Go language.
-
-
 
 **Table of Contents**
 
