@@ -1,5 +1,3 @@
-github.com/franela/goblin v0.0.0-20200611003024-99f9a98191cf h1:gAQjHSFAWxU7nv1QR5bxDnqkSDbhq/Xp/LBpKPC4rT8=
-github.com/franela/goblin v0.0.0-20200611003024-99f9a98191cf/go.mod h1:VzmDKDJVZI3aJmnRI9VjAn9nJ8qPPsN1fqzr9dqInIo=
 github.com/franela/goblin v0.0.0-20200805001810-0a92c4cdab8a h1:NGqGHPvYmPkSDbQP7rV/HVV6WgCos5OP4+0in5wVqZs=
 github.com/franela/goblin v0.0.0-20200805001810-0a92c4cdab8a/go.mod h1:VzmDKDJVZI3aJmnRI9VjAn9nJ8qPPsN1fqzr9dqInIo=
 github.com/fsnotify/fsnotify v1.4.7 h1:IXs+QLmnXW2CcXuY+8Mzv/fWEsPGWxqefPtCP5CnV9I=
